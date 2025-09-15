@@ -29,3 +29,6 @@ Analysis of:
    1. Americas had the highest confirmed cases.
    2. Africa showed different rate patterns compared to other regions.
    3. Death, recovery & active rates vary significantly across WHO regions.
+
+🙌 Would love to hear your thoughts & ideas to make this better.
+THANK YOU 
